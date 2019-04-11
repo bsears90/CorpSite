@@ -35,6 +35,9 @@
                                 <li>
                                     <a href="/about">About</a>
                                 </li>  
+                                  <li>
+                                    <a href="/jobbos">jovg</a>
+                                </li>  
                                 <li>
                                     <a href="#">
                                         Locations
