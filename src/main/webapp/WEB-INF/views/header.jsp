@@ -33,7 +33,7 @@
                                     <a href="/">Home</a>
                                 </li>
                                 <li>
-                                    <a href="/about">About</a>
+                                    <a href="/about">Visit Prison</a>
                                 </li>  
                                   <li>
                                     <a href="/jobbos">Adopt A Child</a>
