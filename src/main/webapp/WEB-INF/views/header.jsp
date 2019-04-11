@@ -38,6 +38,10 @@
                                   <li>
                                     <a href="/jobbos">Adopt A Child</a>
                                 </li>  
+                                  <li>
+                                    <a href="/jobbos">Buy a Juice Maker</a>
+                                </li>  
+
                                 <li>
                                     <a href="#">
                                         Locations
