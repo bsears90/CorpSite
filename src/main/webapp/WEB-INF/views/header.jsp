@@ -36,7 +36,7 @@
                                     <a href="/about">About</a>
                                 </li>  
                                   <li>
-                                    <a href="/jobbos">jovg</a>
+                                    <a href="/jobbos">Adopt A Child</a>
                                 </li>  
                                 <li>
                                     <a href="#">
